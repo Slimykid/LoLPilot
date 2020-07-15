@@ -2,155 +2,155 @@ num_comps = 20
 scale_factor = 1.2
 
 var ChampArray = [
-{Name: "Aatrox", Image: "../_shared/images/champions/Aatrox.jpg"},
-{Name: "Ahri", Image: "../_shared/images/champions/Ahri.jpg"},
-{Name: "Akali", Image: "../_shared/images/champions/Akali.jpg"},
-{Name: "Alistair", Image: "../_shared/images/champions/Alistair.jpg"},
-{Name: "Amumu", Image: "../_shared/images/champions/Amumu.jpg"},
-{Name: "Anivia", Image: "../_shared/images/champions/Anivia.jpg"},
-{Name: "Annie", Image: "../_shared/images/champions/Annie.jpg"},
-{Name: "Aphelios", Image: "../_shared/images/champions/Aphelios.jpg"},
-{Name: "Ashe", Image: "../_shared/images/champions/Ashe.jpg"},
-{Name: "Aurelion Sol", Image: "../_shared/images/champions/Aurelion_Sol.jpg"},
-{Name: "Azir", Image: "../_shared/images/champions/Azir.jpg"},
-{Name: "Bard", Image: "../_shared/images/champions/Bard.jpg"},
-{Name: "Blitzcrank", Image: "../_shared/images/champions/Blitzcrank.jpg"},
-{Name: "Brand", Image: "../_shared/images/champions/Brand.jpg"},
-{Name: "Braum", Image: "../_shared/images/champions/Braum.jpg"},
-{Name: "Caitlyn", Image: "../_shared/images/champions/Caitlyn.jpg"},
-{Name: "Camille", Image: "../_shared/images/champions/Camille.jpg"},
-{Name: "Cassiopeia", Image: "../_shared/images/champions/Cassiopeia.jpg"},
-{Name: "Cho'Gath", Image: "../_shared/images/champions/Cho'Gath.jpg"},
-{Name: "Corki", Image: "../_shared/images/champions/Corki.jpg"},
-{Name: "Darius", Image: "../_shared/images/champions/Darius.jpg"},
-{Name: "Diana", Image: "../_shared/images/champions/Diana.jpg"},
-{Name: "Dr. Mundo", Image: "../_shared/images/champions/Dr_Mundo.jpg"},
-{Name: "Draven", Image: "../_shared/images/champions/Draven.jpg"},
-{Name: "Ekko", Image: "../_shared/images/champions/Ekko.jpg"},
-{Name: "Elise", Image: "../_shared/images/champions/Elise.jpg"},
-{Name: "Evelynn", Image: "../_shared/images/champions/Evelynn.jpg"},
-{Name: "Ezreal", Image: "../_shared/images/champions/Ezreal.jpg"},
-{Name: "Fiddlesticks", Image: "../_shared/images/champions/Fiddlesticks.jpg"},
-{Name: "Fiora", Image: "../_shared/images/champions/Fiora.jpg"},
-{Name: "Fizz", Image: "../_shared/images/champions/Fizz.jpg"},
-{Name: "Galio", Image: "../_shared/images/champions/Galio.jpg"},
-{Name: "Gangplank", Image: "../_shared/images/champions/Gangplank.jpg"},
-{Name: "Garen", Image: "../_shared/images/champions/Garen.jpg"},
-{Name: "Gnar", Image: "../_shared/images/champions/Gnar.jpg"},
-{Name: "Gragas", Image: "../_shared/images/champions/Gragas.jpg"},
-{Name: "Graves", Image: "../_shared/images/champions/Graves.jpg"},
-{Name: "Hecarim", Image: "../_shared/images/champions/Hecarim.jpg"},
-{Name: "Heimerdinger", Image: "../_shared/images/champions/Heimerdinger.jpg"},
-{Name: "Illaoi", Image: "../_shared/images/champions/Illaoi.jpg"},
-{Name: "Irelia", Image: "../_shared/images/champions/Irelia.jpg"},
-{Name: "Ivern", Image: "../_shared/images/champions/Ivern.jpg"},
-{Name: "Janna", Image: "../_shared/images/champions/Janna.jpg"},
-{Name: "Jarvan IV", Image: "../_shared/images/champions/Jarvan_IV.jpg"},
-{Name: "Jax", Image: "../_shared/images/champions/Jax.jpg"},
-{Name: "Jayce", Image: "../_shared/images/champions/Jayce.jpg"},
-{Name: "Jhin", Image: "../_shared/images/champions/Jhin.jpg"},
-{Name: "Jinx", Image: "../_shared/images/champions/Jinx.jpg"},
-{Name: "Kai'Sa", Image: "../_shared/images/champions/Kai'Sa.jpg"},
-{Name: "Kalista", Image: "../_shared/images/champions/Kalista.jpg"},
-{Name: "Karma", Image: "../_shared/images/champions/Karma.jpg"},
-{Name: "Karthus", Image: "../_shared/images/champions/Karthus.jpg"},
-{Name: "Kassadin", Image: "../_shared/images/champions/Kassadin.jpg"},
-{Name: "Katarina", Image: "../_shared/images/champions/Katarina.jpg"},
-{Name: "Kayle", Image: "../_shared/images/champions/Kayle.jpg"},
-{Name: "Kayn", Image: "../_shared/images/champions/Kayn.jpg"},
-{Name: "Kennen", Image: "../_shared/images/champions/Kennen.jpg"},
-{Name: "Kha'Zix", Image: "../_shared/images/champions/Kha'Zix.jpg"},
-{Name: "Kindred", Image: "../_shared/images/champions/Kindred.jpg"},
-{Name: "Kled", Image: "../_shared/images/champions/Kled.jpg"},
-{Name: "Kog'Maw", Image: "../_shared/images/champions/Kog'Maw.jpg"},
-{Name: "LeBlanc", Image: "../_shared/images/champions/LeBlanc.jpg"},
-{Name: "Lee Sin", Image: "../_shared/images/champions/Lee_Sin.jpg"},
-{Name: "Leona", Image: "../_shared/images/champions/Leona.jpg"},
-{Name: "Lissandra", Image: "../_shared/images/champions/Lissandra.jpg"},
-{Name: "Lucian", Image: "../_shared/images/champions/Lucian.jpg"},
-{Name: "Lulu", Image: "../_shared/images/champions/Lulu.jpg"},
-{Name: "Lux", Image: "../_shared/images/champions/Lux.jpg"},
-{Name: "Malphite", Image: "../_shared/images/champions/Malphite.jpg"},
-{Name: "Malzahar", Image: "../_shared/images/champions/Malzahar.jpg"},
-{Name: "Maokai", Image: "../_shared/images/champions/Maokai.jpg"},
-{Name: "Master Yi", Image: "../_shared/images/champions/Master_Yi.jpg"},
-{Name: "Master Yi", Image: "../_shared/images/champions/Master_Yi.jpg"},
-{Name: "Miss Fortune", Image: "../_shared/images/champions/Miss_Fortune.jpg"},
-{Name: "Mordekaiser", Image: "../_shared/images/champions/Mordekaiser.jpg"},
-{Name: "Morgana", Image: "../_shared/images/champions/Morgana.jpg"},
-{Name: "Nami", Image: "../_shared/images/champions/Nami.jpg"},
-{Name: "Nasus", Image: "../_shared/images/champions/Nasus.jpg"},
-{Name: "Nautilus", Image: "../_shared/images/champions/Nautilus.jpg"},
-{Name: "Neeko", Image: "../_shared/images/champions/Neeko.jpg"},
-{Name: "Nidalee", Image: "../_shared/images/champions/Nidalee.jpg"},
-{Name: "Nocturne", Image: "../_shared/images/champions/Nocturne.jpg"},
-{Name: "Nunu", Image: "../_shared/images/champions/Nunu.jpg"},
-{Name: "Olaf", Image: "../_shared/images/champions/Olaf.jpg"},
-{Name: "Orianna", Image: "../_shared/images/champions/Orianna.jpg"},
-{Name: "Ornn", Image: "../_shared/images/champions/Ornn.jpg"},
-{Name: "Pantheon", Image: "../_shared/images/champions/Pantheon.jpg"},
-{Name: "Poppy", Image: "../_shared/images/champions/Poppy.jpg"},
-{Name: "Pyke", Image: "../_shared/images/champions/Pyke.jpg"},
-{Name: "Qiyana", Image: "../_shared/images/champions/Qiyana.jpg"},
-{Name: "Quinn", Image: "../_shared/images/champions/Quinn.jpg"},
-{Name: "Rakan", Image: "../_shared/images/champions/Rakan.jpg"},
-{Name: "Rammus", Image: "../_shared/images/champions/Rammus.jpg"},
-{Name: "Rek'Sai", Image: "../_shared/images/champions/Rek'Sai.jpg"},
-{Name: "Renekton", Image: "../_shared/images/champions/Renekton.jpg"},
-{Name: "Rengar", Image: "../_shared/images/champions/Rengar.jpg"},
-{Name: "Riven", Image: "../_shared/images/champions/Riven.jpg"},
-{Name: "Rumble", Image: "../_shared/images/champions/Rumble.jpg"},
-{Name: "Ryze", Image: "../_shared/images/champions/Ryze.jpg"},
-{Name: "Sejuani", Image: "../_shared/images/champions/Sejuani.jpg"},
-{Name: "Senna", Image: "../_shared/images/champions/Senna.jpg"},
-{Name: "Sett", Image: "../_shared/images/champions/Sett.jpg"},
-{Name: "Shaco", Image: "../_shared/images/champions/Shaco.jpg"},
-{Name: "Shen", Image: "../_shared/images/champions/Shen.jpg"},
-{Name: "Shyvana", Image: "../_shared/images/champions/Shyvana.jpg"},
-{Name: "Singed", Image: "../_shared/images/champions/Singed.jpg"},
-{Name: "Sion", Image: "../_shared/images/champions/Sion.jpg"},
-{Name: "Sivir", Image: "../_shared/images/champions/Sivir.jpg"},
-{Name: "Skarner", Image: "../_shared/images/champions/Skarner.jpg"},
-{Name: "Sona", Image: "../_shared/images/champions/Sona.jpg"},
-{Name: "Soraka", Image: "../_shared/images/champions/Soraka.jpg"},
-{Name: "Swain", Image: "../_shared/images/champions/Swain.jpg"},
-{Name: "Sylas", Image: "../_shared/images/champions/Sylas.jpg"},
-{Name: "Syndra", Image: "../_shared/images/champions/Syndra.jpg"},
-{Name: "Tahm Kench", Image: "../_shared/images/champions/Tahm_Kench.jpg"},
-{Name: "Taliyah", Image: "../_shared/images/champions/Taliyah.jpg"},
-{Name: "Talon", Image: "../_shared/images/champions/Talon.jpg"},
-{Name: "Taric", Image: "../_shared/images/champions/Taric.jpg"},
-{Name: "Teemo", Image: "../_shared/images/champions/Teemo.jpg"},
-{Name: "Thresh", Image: "../_shared/images/champions/Thresh.jpg"},
-{Name: "Tristana", Image: "../_shared/images/champions/Tristana.jpg"},
-{Name: "Trundle", Image: "../_shared/images/champions/Trundle.jpg"},
-{Name: "Tryndamere", Image: "../_shared/images/champions/Tryndamere.jpg"},
-{Name: "Twisted Fate", Image: "../_shared/images/champions/Twisted_Fate.jpg"},
-{Name: "Twitch", Image: "../_shared/images/champions/Twitch.jpg"},
-{Name: "Udyr", Image: "../_shared/images/champions/Udyr.jpg"},
-{Name: "Urgot", Image: "../_shared/images/champions/Urgot.jpg"},
-{Name: "Varus", Image: "../_shared/images/champions/Varus.jpg"},
-{Name: "Vayne", Image: "../_shared/images/champions/Vayne.jpg"},
-{Name: "Veigar", Image: "../_shared/images/champions/Veigar.jpg"},
-{Name: "Vel'Koz", Image: "../_shared/images/champions/Vel'Koz.jpg"},
-{Name: "Vi", Image: "../_shared/images/champions/Vi.jpg"},
-{Name: "Viktor", Image: "../_shared/images/champions/Viktor.jpg"},
-{Name: "Vladimir", Image: "../_shared/images/champions/Vladimir.jpg"},
-{Name: "Volibear", Image: "../_shared/images/champions/Volibear.jpg"},
-{Name: "Warwick", Image: "../_shared/images/champions/Warwick.jpg"},
-{Name: "Wukong", Image: "../_shared/images/champions/Wukong.jpg"},
-{Name: "Xayah", Image: "../_shared/images/champions/Xayah.jpg"},
-{Name: "Xerath", Image: "../_shared/images/champions/Xerath.jpg"},
-{Name: "Xin Zhao", Image: "../_shared/images/champions/Xin_Zhao.jpg"},
-{Name: "Yasuo", Image: "../_shared/images/champions/Yasuo.jpg"},
-{Name: "Yorick", Image: "../_shared/images/champions/Yorick.jpg"},
-{Name: "Yuumi", Image: "../_shared/images/champions/Yuumi.jpg"},
-{Name: "Zac", Image: "../_shared/images/champions/Zac.jpg"},
-{Name: "Zed", Image: "../_shared/images/champions/Zed.jpg"},
-{Name: "Ziggs", Image: "../_shared/images/champions/Ziggs.jpg"},
-{Name: "Zilean", Image: "../_shared/images/champions/Zilean.jpg"},
-{Name: "Zoe", Image: "../_shared/images/champions/Zoe.jpg"},
-{Name: "Zyra", Image: "../_shared/images/champions/Zyra.jpg"}
+{Name: "Aatrox", Image: "../_shared/images/champions/Aatrox.jpg"}, //0
+{Name: "Ahri", Image: "../_shared/images/champions/Ahri.jpg"}, //1
+{Name: "Akali", Image: "../_shared/images/champions/Akali.jpg"}, //2
+{Name: "Alistair", Image: "../_shared/images/champions/Alistair.jpg"}, //3
+{Name: "Amumu", Image: "../_shared/images/champions/Amumu.jpg"}, //4
+{Name: "Anivia", Image: "../_shared/images/champions/Anivia.jpg"}, //5
+{Name: "Annie", Image: "../_shared/images/champions/Annie.jpg"}, //6
+{Name: "Aphelios", Image: "../_shared/images/champions/Aphelios.jpg"}, //7
+{Name: "Ashe", Image: "../_shared/images/champions/Ashe.jpg"}, //8
+{Name: "Aurelion Sol", Image: "../_shared/images/champions/Aurelion_Sol.jpg"}, //9
+{Name: "Azir", Image: "../_shared/images/champions/Azir.jpg"}, //10
+{Name: "Bard", Image: "../_shared/images/champions/Bard.jpg"}, //11
+{Name: "Blitzcrank", Image: "../_shared/images/champions/Blitzcrank.jpg"}, //12
+{Name: "Brand", Image: "../_shared/images/champions/Brand.jpg"}, //13
+{Name: "Braum", Image: "../_shared/images/champions/Braum.jpg"}, //14
+{Name: "Caitlyn", Image: "../_shared/images/champions/Caitlyn.jpg"}, //15
+{Name: "Camille", Image: "../_shared/images/champions/Camille.jpg"}, //16
+{Name: "Cassiopeia", Image: "../_shared/images/champions/Cassiopeia.jpg"}, //17
+{Name: "Cho'Gath", Image: "../_shared/images/champions/Cho'Gath.jpg"}, //18
+{Name: "Corki", Image: "../_shared/images/champions/Corki.jpg"}, //19
+{Name: "Darius", Image: "../_shared/images/champions/Darius.jpg"}, //20
+{Name: "Diana", Image: "../_shared/images/champions/Diana.jpg"}, //21
+{Name: "Dr. Mundo", Image: "../_shared/images/champions/Dr_Mundo.jpg"}, //22
+{Name: "Draven", Image: "../_shared/images/champions/Draven.jpg"}, //23
+{Name: "Ekko", Image: "../_shared/images/champions/Ekko.jpg"}, //24
+{Name: "Elise", Image: "../_shared/images/champions/Elise.jpg"}, //25
+{Name: "Evelynn", Image: "../_shared/images/champions/Evelynn.jpg"}, //26
+{Name: "Ezreal", Image: "../_shared/images/champions/Ezreal.jpg"}, //27
+{Name: "Fiddlesticks", Image: "../_shared/images/champions/Fiddlesticks.jpg"}, //28
+{Name: "Fiora", Image: "../_shared/images/champions/Fiora.jpg"}, //29
+{Name: "Fizz", Image: "../_shared/images/champions/Fizz.jpg"}, //30
+{Name: "Galio", Image: "../_shared/images/champions/Galio.jpg"}, //31
+{Name: "Gangplank", Image: "../_shared/images/champions/Gangplank.jpg"}, //32
+{Name: "Garen", Image: "../_shared/images/champions/Garen.jpg"}, //33
+{Name: "Gnar", Image: "../_shared/images/champions/Gnar.jpg"}, //34
+{Name: "Gragas", Image: "../_shared/images/champions/Gragas.jpg"}, //35
+{Name: "Graves", Image: "../_shared/images/champions/Graves.jpg"}, //36
+{Name: "Hecarim", Image: "../_shared/images/champions/Hecarim.jpg"}, //37
+{Name: "Heimerdinger", Image: "../_shared/images/champions/Heimerdinger.jpg"}, //38
+{Name: "Illaoi", Image: "../_shared/images/champions/Illaoi.jpg"}, //39
+{Name: "Irelia", Image: "../_shared/images/champions/Irelia.jpg"}, //40
+{Name: "Ivern", Image: "../_shared/images/champions/Ivern.jpg"}, //41
+{Name: "Janna", Image: "../_shared/images/champions/Janna.jpg"}, //42
+{Name: "Jarvan IV", Image: "../_shared/images/champions/Jarvan_IV.jpg"}, //43
+{Name: "Jax", Image: "../_shared/images/champions/Jax.jpg"}, //44
+{Name: "Jayce", Image: "../_shared/images/champions/Jayce.jpg"}, //45
+{Name: "Jhin", Image: "../_shared/images/champions/Jhin.jpg"}, //46
+{Name: "Jinx", Image: "../_shared/images/champions/Jinx.jpg"}, //47
+{Name: "Kai'Sa", Image: "../_shared/images/champions/Kai'Sa.jpg"}, //48
+{Name: "Kalista", Image: "../_shared/images/champions/Kalista.jpg"}, //49
+{Name: "Karma", Image: "../_shared/images/champions/Karma.jpg"}, //50
+{Name: "Karthus", Image: "../_shared/images/champions/Karthus.jpg"}, //51
+{Name: "Kassadin", Image: "../_shared/images/champions/Kassadin.jpg"}, //52
+{Name: "Katarina", Image: "../_shared/images/champions/Katarina.jpg"}, //53
+{Name: "Kayle", Image: "../_shared/images/champions/Kayle.jpg"}, //54
+{Name: "Kayn", Image: "../_shared/images/champions/Kayn.jpg"}, //55
+{Name: "Kennen", Image: "../_shared/images/champions/Kennen.jpg"}, //56
+{Name: "Kha'Zix", Image: "../_shared/images/champions/Kha'Zix.jpg"}, //57
+{Name: "Kindred", Image: "../_shared/images/champions/Kindred.jpg"}, //58
+{Name: "Kled", Image: "../_shared/images/champions/Kled.jpg"}, //59
+{Name: "Kog'Maw", Image: "../_shared/images/champions/Kog'Maw.jpg"}, //60
+{Name: "LeBlanc", Image: "../_shared/images/champions/LeBlanc.jpg"}, //61
+{Name: "Lee Sin", Image: "../_shared/images/champions/Lee_Sin.jpg"}, //62
+{Name: "Leona", Image: "../_shared/images/champions/Leona.jpg"}, //63
+{Name: "Lissandra", Image: "../_shared/images/champions/Lissandra.jpg"}, //64
+{Name: "Lucian", Image: "../_shared/images/champions/Lucian.jpg"}, //65
+{Name: "Lulu", Image: "../_shared/images/champions/Lulu.jpg"}, //66
+{Name: "Lux", Image: "../_shared/images/champions/Lux.jpg"}, //67
+{Name: "Malphite", Image: "../_shared/images/champions/Malphite.jpg"}, //68
+{Name: "Malzahar", Image: "../_shared/images/champions/Malzahar.jpg"}, //69
+{Name: "Maokai", Image: "../_shared/images/champions/Maokai.jpg"}, //70
+{Name: "Master Yi", Image: "../_shared/images/champions/Master_Yi.jpg"}, //71
+{Name: "Master Yi", Image: "../_shared/images/champions/Master_Yi.jpg"}, //72
+{Name: "Miss Fortune", Image: "../_shared/images/champions/Miss_Fortune.jpg"}, //73
+{Name: "Mordekaiser", Image: "../_shared/images/champions/Mordekaiser.jpg"}, //74
+{Name: "Morgana", Image: "../_shared/images/champions/Morgana.jpg"}, //75
+{Name: "Nami", Image: "../_shared/images/champions/Nami.jpg"}, //76
+{Name: "Nasus", Image: "../_shared/images/champions/Nasus.jpg"}, //77
+{Name: "Nautilus", Image: "../_shared/images/champions/Nautilus.jpg"}, //78
+{Name: "Neeko", Image: "../_shared/images/champions/Neeko.jpg"}, //79
+{Name: "Nidalee", Image: "../_shared/images/champions/Nidalee.jpg"}, //80
+{Name: "Nocturne", Image: "../_shared/images/champions/Nocturne.jpg"}, //81
+{Name: "Nunu", Image: "../_shared/images/champions/Nunu.jpg"}, //82
+{Name: "Olaf", Image: "../_shared/images/champions/Olaf.jpg"}, //83
+{Name: "Orianna", Image: "../_shared/images/champions/Orianna.jpg"}, //84
+{Name: "Ornn", Image: "../_shared/images/champions/Ornn.jpg"}, //85
+{Name: "Pantheon", Image: "../_shared/images/champions/Pantheon.jpg"}, //86
+{Name: "Poppy", Image: "../_shared/images/champions/Poppy.jpg"}, //87
+{Name: "Pyke", Image: "../_shared/images/champions/Pyke.jpg"}, //88
+{Name: "Qiyana", Image: "../_shared/images/champions/Qiyana.jpg"}, //89
+{Name: "Quinn", Image: "../_shared/images/champions/Quinn.jpg"}, //90
+{Name: "Rakan", Image: "../_shared/images/champions/Rakan.jpg"}, //91
+{Name: "Rammus", Image: "../_shared/images/champions/Rammus.jpg"}, //92
+{Name: "Rek'Sai", Image: "../_shared/images/champions/Rek'Sai.jpg"}, //93
+{Name: "Renekton", Image: "../_shared/images/champions/Renekton.jpg"}, //94
+{Name: "Rengar", Image: "../_shared/images/champions/Rengar.jpg"}, //95
+{Name: "Riven", Image: "../_shared/images/champions/Riven.jpg"}, //96
+{Name: "Rumble", Image: "../_shared/images/champions/Rumble.jpg"}, //97
+{Name: "Ryze", Image: "../_shared/images/champions/Ryze.jpg"}, //98
+{Name: "Sejuani", Image: "../_shared/images/champions/Sejuani.jpg"}, //99
+{Name: "Senna", Image: "../_shared/images/champions/Senna.jpg"}, //100
+{Name: "Sett", Image: "../_shared/images/champions/Sett.jpg"}, //101
+{Name: "Shaco", Image: "../_shared/images/champions/Shaco.jpg"}, //102
+{Name: "Shen", Image: "../_shared/images/champions/Shen.jpg"}, //103
+{Name: "Shyvana", Image: "../_shared/images/champions/Shyvana.jpg"}, //104
+{Name: "Singed", Image: "../_shared/images/champions/Singed.jpg"}, //105
+{Name: "Sion", Image: "../_shared/images/champions/Sion.jpg"}, //106
+{Name: "Sivir", Image: "../_shared/images/champions/Sivir.jpg"}, //107
+{Name: "Skarner", Image: "../_shared/images/champions/Skarner.jpg"}, //108
+{Name: "Sona", Image: "../_shared/images/champions/Sona.jpg"}, //109
+{Name: "Soraka", Image: "../_shared/images/champions/Soraka.jpg"}, //110
+{Name: "Swain", Image: "../_shared/images/champions/Swain.jpg"}, //111
+{Name: "Sylas", Image: "../_shared/images/champions/Sylas.jpg"}, //112
+{Name: "Syndra", Image: "../_shared/images/champions/Syndra.jpg"}, //113
+{Name: "Tahm Kench", Image: "../_shared/images/champions/Tahm_Kench.jpg"}, //114
+{Name: "Taliyah", Image: "../_shared/images/champions/Taliyah.jpg"}, //115
+{Name: "Talon", Image: "../_shared/images/champions/Talon.jpg"}, //116
+{Name: "Taric", Image: "../_shared/images/champions/Taric.jpg"}, //117
+{Name: "Teemo", Image: "../_shared/images/champions/Teemo.jpg"}, //118
+{Name: "Thresh", Image: "../_shared/images/champions/Thresh.jpg"}, //119
+{Name: "Tristana", Image: "../_shared/images/champions/Tristana.jpg"}, //120
+{Name: "Trundle", Image: "../_shared/images/champions/Trundle.jpg"}, //121
+{Name: "Tryndamere", Image: "../_shared/images/champions/Tryndamere.jpg"}, //122
+{Name: "Twisted Fate", Image: "../_shared/images/champions/Twisted_Fate.jpg"}, //123
+{Name: "Twitch", Image: "../_shared/images/champions/Twitch.jpg"}, //124
+{Name: "Udyr", Image: "../_shared/images/champions/Udyr.jpg"}, //125
+{Name: "Urgot", Image: "../_shared/images/champions/Urgot.jpg"}, //126
+{Name: "Varus", Image: "../_shared/images/champions/Varus.jpg"}, //127
+{Name: "Vayne", Image: "../_shared/images/champions/Vayne.jpg"}, //128
+{Name: "Veigar", Image: "../_shared/images/champions/Veigar.jpg"}, //129
+{Name: "Vel'Koz", Image: "../_shared/images/champions/Vel'Koz.jpg"}, //130
+{Name: "Vi", Image: "../_shared/images/champions/Vi.jpg"}, //131
+{Name: "Viktor", Image: "../_shared/images/champions/Viktor.jpg"}, //132
+{Name: "Vladimir", Image: "../_shared/images/champions/Vladimir.jpg"}, //133
+{Name: "Volibear", Image: "../_shared/images/champions/Volibear.jpg"}, //134
+{Name: "Warwick", Image: "../_shared/images/champions/Warwick.jpg"}, //135
+{Name: "Wukong", Image: "../_shared/images/champions/Wukong.jpg"}, //136
+{Name: "Xayah", Image: "../_shared/images/champions/Xayah.jpg"}, //137
+{Name: "Xerath", Image: "../_shared/images/champions/Xerath.jpg"}, //138
+{Name: "Xin Zhao", Image: "../_shared/images/champions/Xin_Zhao.jpg"}, //139
+{Name: "Yasuo", Image: "../_shared/images/champions/Yasuo.jpg"}, //140
+{Name: "Yorick", Image: "../_shared/images/champions/Yorick.jpg"}, //141
+{Name: "Yuumi", Image: "../_shared/images/champions/Yuumi.jpg"}, //142
+{Name: "Zac", Image: "../_shared/images/champions/Zac.jpg"}, //143
+{Name: "Zed", Image: "../_shared/images/champions/Zed.jpg"}, //144
+{Name: "Ziggs", Image: "../_shared/images/champions/Ziggs.jpg"}, //145
+{Name: "Zilean", Image: "../_shared/images/champions/Zilean.jpg"}, //146
+{Name: "Zoe", Image: "../_shared/images/champions/Zoe.jpg"}, //147
+{Name: "Zyra", Image: "../_shared/images/champions/Zyra.jpg"} //148
 ]
 
 for (i = 0; i<ChampArray.length;i++){
@@ -386,3 +386,35 @@ function makeLoLStimuli(){
 }
 
 LoLStimuli = makeLoLStimuli()
+
+
+LoLStimuli[0] = {Blue: [ChampArray[85],ChampArray[25],ChampArray[81],ChampArray[65],ChampArray[11]], Red: [ChampArray[0],ChampArray[1],ChampArray[2],ChampArray[3],ChampArray[4]]}
+LoLStimuli[1] = {Blue: [ChampArray[85],ChampArray[143],ChampArray[61],ChampArray[7],ChampArray[66]], Red: [ChampArray[0],ChampArray[1],ChampArray[2],ChampArray[3],ChampArray[4]]}
+LoLStimuli[2] = {Blue: [ChampArray[68],ChampArray[36],ChampArray[84],ChampArray[124],ChampArray[11]], Red: [ChampArray[0],ChampArray[1],ChampArray[2],ChampArray[3],ChampArray[4]]}
+LoLStimuli[3] = {Blue: [ChampArray[122],ChampArray[43],ChampArray[140],ChampArray[128],ChampArray[63]], Red: [ChampArray[0],ChampArray[1],ChampArray[2],ChampArray[3],ChampArray[4]]}
+LoLStimuli[4] = {Blue: [ChampArray[70],ChampArray[92],ChampArray[89],ChampArray[128],ChampArray[63]], Red: [ChampArray[0],ChampArray[1],ChampArray[2],ChampArray[3],ChampArray[4]]}
+LoLStimuli[5] = {Blue: [ChampArray[101],ChampArray[62],ChampArray[5],ChampArray[46],ChampArray[100]], Red: [ChampArray[0],ChampArray[1],ChampArray[2],ChampArray[3],ChampArray[4]]}
+LoLStimuli[6] = {Blue: [ChampArray[95],ChampArray[80],ChampArray[79],ChampArray[46],ChampArray[42]], Red: [ChampArray[0],ChampArray[1],ChampArray[2],ChampArray[3],ChampArray[4]]}
+LoLStimuli[7] = {Blue: [ChampArray[20],ChampArray[121],ChampArray[138],ChampArray[27],ChampArray[66]], Red: [ChampArray[0],ChampArray[1],ChampArray[2],ChampArray[3],ChampArray[4]]}
+
+function shuffle(array) {
+  var currentIndex = array.length, temporaryValue, randomIndex;
+
+  // While there remain elements to shuffle...
+  while (0 !== currentIndex) {
+
+    // Pick a remaining element...
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex -= 1;
+
+    // And swap it with the current element.
+    temporaryValue = array[currentIndex];
+    array[currentIndex] = array[randomIndex];
+    array[randomIndex] = temporaryValue;
+  }
+
+  return array;
+}
+
+randLoLStimuli = shuffle(LoLStimuli)
+

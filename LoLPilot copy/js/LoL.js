@@ -98,7 +98,7 @@ function make_slides(f) {
     /* trial information for this block
      (the variable 'stim' will change between each of these values,
       and for each of these, present_handle will be run.) */
-    present : LoLStimuli,
+    present : randLoLStimuli,
         // "bins" : [
         //   {
         //     "min" : 0,
